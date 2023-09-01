@@ -5,9 +5,9 @@ Testcase. technical essay in jupiter(charts for media sources)
 - Create python3 virtualenvironment for this project
 
 # 1. Connect to postgres DB with SDK tools
--restored db files
--transfered content to a new db
--connected to a new database
+- restored db files
+- transfered content to a new db
+- connected to a new database
 
 # 2. Analyzing data in Pandas 
 Created 8 Reports in "Analyze_Data_withPandas.ipynb" in the end
