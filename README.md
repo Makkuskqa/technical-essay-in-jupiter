@@ -1,16 +1,15 @@
 # technical-essay-in-jupiter
 Testcase. technical essay in jupiter(charts for media sources)
 
-# 1. Download folder source from Driver disk to my local
+- Download folder source from Driver disk to my local
+- Create python3 virtualenvironment for this project
 
-# 2. Create python3 virtualenvironment for this project
-
-# 3. Connect to postgres DB with SDK tools
+# 1. Connect to postgres DB with SDK tools
 **restored db files**
 **transfered content to a new db**
 **connected to a new database**
 
-# 4. Analyzing data in Pandas 
+# 2. Analyzing data in Pandas 
 Created 8 Reports in "Analyze_Data_withPandas.ipynb" in the end
 ![image](https://github.com/Makkuskqa/technical-essay-in-jupiter/assets/105742207/7f5b80f1-48e0-4f75-9f55-64f281f61b2b)
 ![image](https://github.com/Makkuskqa/technical-essay-in-jupiter/assets/105742207/21226c11-c244-4a2f-8333-4d08f2710abb)
