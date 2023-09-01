@@ -22,4 +22,4 @@ Created 8 Reports in "Analyze_Data_withPandas.ipynb" in the end
 
 Created query to Postgres to extract all Data in "Sql_query.ipynb"
 
-The bad thing is that the charts are not displayed in the Jupiter laptop on the gitHub
+
